@@ -7,5 +7,12 @@ https://docs.google.com/document/d/10eA5-mCZLSS4MQY5QGb5ewC3VAL6pLkT53V_81ZyitM/
 
 A few more resources that I've included:
 http://fakenewswatch.com/
+http://www.snopes.com
+http://www.thatsfake.com/
 
-S
+Web sites get added if they publish deliberately false, misleading or click bait content.
+
+Web sites get removed if:
+1. they no longer exist,
+2. they stop publishing false, misleading or click bait material.
+
